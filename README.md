@@ -43,7 +43,7 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 
 - [#2] Added JS and connect page to JsonPowerDB
 - [#3] Added a README.md file
-- [#4] Tested the page
+- [#4] Tested the form
 
 ---
 
@@ -57,7 +57,7 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 
 ## Introduction
 
-In this project you can add the details of the Employees.
+In this project you can add the details of the Employee.
 
 ## Screenshots
 
