@@ -1,5 +1,5 @@
 # webform
-# Employees Details Form using JsonPowerDB
+# Employee Details Form using JsonPowerDB
 
 > > > original work by Shradha Varun
 
